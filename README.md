@@ -1,4 +1,14 @@
-### Hi there 👋
+### Mohammad Maleki
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmammad2m%2Fmammad2m&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mammad2m/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:2mmammad@gmail.com)
+[![Github](https://img.shields.io/github/followers/mammad2m?label=Follow&style=social)](https://github.com/mammad2m)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammad2m&show_icons=true&locale=en&layout=compact" alt="mammad2m" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mammad2m&" alt="mammad2m" />
+</div>
 
 <!--
 **mammad2m/mammad2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
